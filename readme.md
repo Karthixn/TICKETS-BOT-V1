@@ -25,7 +25,6 @@
 Inside each ticket, staff get a control panel with:
 - 🙋 **Claim Ticket** — Marks ownership by staff member.
 - 👤 **Add User** — Add extra user IDs to ticket visibility.
-- 📝 **Save Transcript** — Generates `.html` transcript and sends to staff logs.
 - 🔒 **Close Ticket** — Closes the ticket, sends transcript to staff log, DMs user a copy, and deletes channel after delay.
 
 ### 🕒 Automation
