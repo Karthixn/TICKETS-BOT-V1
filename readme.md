@@ -64,7 +64,7 @@ Configurable logo & color via `.env`.
 
 ### Clone & Install
 ```bash
-git clone https://github.com/<yourname>/tenjiku-core.git
+git clone https://github.com/Karthixn/TICKETS-BOT-V1.git
 cd tenjiku-core
 npm install
 ```
